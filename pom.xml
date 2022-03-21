@@ -12,7 +12,7 @@
 	<groupId>net.javaguides</groupId>
 	<artifactId>springboot-rest-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course-api</name>
+	<name>course-api-2</name>
 	<packaging>war</packaging>
 	<description>demo project</description>
 	<properties>
@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>course-api-1</finalName>
+		<finalName>course-api-2</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
